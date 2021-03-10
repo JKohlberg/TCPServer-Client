@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y9NPZyHJCAqSr+/qcULPmnmaTYHLiEQx32xHXsm5Uz3TccgZLgKpum80W7cYYVPL9nXwxpk00KnklEygjLyOqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julio\\Documents\\Universidad\\9no Semestre\\Sistemas Distribuidos\\TCPServer\\TCPServer\\TCPServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julio\\.nuget\\packages\\supersimpletcp\\2.3.0.2\\supersimpletcp.2.3.0.2.nupkg.sha512",
+    "C:\\Users\\julio\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
